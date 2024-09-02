@@ -1,0 +1,1 @@
+type TMode = 'select' | 'normal'
